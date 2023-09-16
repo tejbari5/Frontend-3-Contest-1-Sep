@@ -12,7 +12,7 @@
 
 >## Demo :
 
-_You can see a live demo of the app here : [Movie Search App Demo](https://tejbari5.github.io/IMDB-Movie-App/)_
+_You can see a live demo of the app here : [Movie Search App Demo](https://tejbari5.github.io/Frontend-3-Contest-1-Sep/)_
 
 >## How to run :
 
@@ -23,4 +23,4 @@ Then, you can open this link and start searching for movies.
 >## Preview :
 
 
-![Imdbmovieapp](https://github.com/tejbari5/IMDB-Movie-App/assets/107680212/1e8f3404-85a9-42c6-99d6-5235e5f381d8)
+![Imdbmovieapp](https://github.com/tejbari5/Frontend-3-Contest-1-Sep/assets/107680212/1e8f3404-85a9-42c6-99d6-5235e5f381d8)
